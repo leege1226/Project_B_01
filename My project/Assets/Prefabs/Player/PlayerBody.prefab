@@ -51,6 +51,7 @@ MonoBehaviour:
   moveSpeed: 5
   PlayerPivot: {fileID: 5476200173887296897}
   projectileController: {fileID: 7888327410663118795}
+  Player_hp: 20
 --- !u!65 &1322061791971127469
 BoxCollider:
   m_ObjectHideFlags: 0
